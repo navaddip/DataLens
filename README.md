@@ -1,11 +1,11 @@
-# 🔍 DataLens – GenAI-Powered Data Quality Scoring for Payments
+# DataLens – GenAI-Powered Data Quality Scoring for Payments
 
 DataLens is a **GenAI-driven data quality analysis platform** designed for the **payments domain**.  
 It automatically evaluates payment datasets across standard data quality dimensions and produces a **universal, explainable Data Quality Score (DQS)** with **role-aware insights and actionable recommendations** — while keeping the base score objective and unchanged.
 
 ---
 
-## 🚀 Problem Overview
+## Problem Overview
 
 Payment organizations process massive volumes of transaction data across multiple systems.  
 Despite its importance, there is **no universal or objective way** to evaluate data quality across key dimensions such as accuracy, completeness, consistency, timeliness, uniqueness, validity, and integrity.
@@ -19,7 +19,7 @@ This results in:
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Automatically analyze any payment dataset securely
 - Compute **dimension-level data quality scores**
@@ -31,9 +31,9 @@ This results in:
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
-### ✅ Universal Data Quality Scoring
+###  Universal Data Quality Scoring
 - Evaluates datasets across **7 standard dimensions**:
   - Accuracy
   - Completeness
@@ -44,13 +44,13 @@ This results in:
   - Integrity
 - Produces a **single, objective DQS (0–100)** per dataset
 
-### 🤖 GenAI-Powered Insights
+###  GenAI-Powered Insights
 - Converts technical metadata into **plain-language explanations**
 - Highlights **business and regulatory impact**
 - Example:
   > “Missing KYC address fields may impact AML compliance and audit readiness.”
 
-### 👥 Role-Aware Interpretation (Non-Intrusive)
+###  Role-Aware Interpretation (Non-Intrusive)
 - Supports multiple roles:
   - Data Engineer
   - Data Scientist
@@ -65,19 +65,19 @@ This results in:
   - Risk emphasis
   - Recommendations
 
-### 🛠 Actionable Recommendations
+###  Actionable Recommendations
 - Prioritized fixes (High / Medium / Low)
 - Estimated DQS improvement for each fix
 - Clear guidance on **what to fix next**
 
-### 🔐 Privacy & Governance
+###  Privacy & Governance
 - No raw transaction data stored
 - Only metadata and scoring outputs are retained
 - Audit-friendly and compliance-ready design
 
 ---
 
-## 🖥️ Application Flow
+##  Application Flow
 
 1. **Dataset Upload**  
    Upload payment datasets securely (CSV, Parquet, Table, API)
@@ -96,14 +96,14 @@ This results in:
 
 ---
 
-## 📊 Data Quality Score (DQS)
+##  Data Quality Score (DQS)
 
 - Weights are domain-aware and configurable
 - Base DQS remains immutable across all roles
 
 ---
 
-## 🧩 User Interface Highlights
+##  User Interface Highlights
 
 - Modern, professional fintech dashboard
 - Clear visualization of:
@@ -115,7 +115,7 @@ This results in:
 
 ---
 
-## 🏗️ Tech Stack (Planned / Prototype)
+##  Tech Stack (Planned / Prototype)
 
 - **Frontend:** Figma (UI/UX), React (planned)
 - **Backend:** Python
@@ -125,12 +125,12 @@ This results in:
 
 ---
 
-## 📁 Repository Structure (Proposed)
+##  Repository Structure (Proposed)
 
 
 ---
 
-## 🏆 Hackathon Alignment
+##  Hackathon Alignment
 
 This project directly addresses **Problem Statement 3**:
 > *GenAI Agent for Universal, Dimension-Based Data Quality Scoring in the Payments Domain*
@@ -144,7 +144,7 @@ It demonstrates:
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 - DQS trend monitoring over time
 - Confidence scoring for DQS reliability
@@ -154,11 +154,7 @@ It demonstrates:
 
 ---
 
-## 👤 Team
 
-- **Project Name:** DataLens
-- **Domain:** Payments / FinTech
-- **Type:** Hackathon Prototype
 
 ---
 
